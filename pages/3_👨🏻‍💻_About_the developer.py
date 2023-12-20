@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Jishnu Saha"
 PAGE_ICON = ":wave:"
 NAME = "Jishnu Saha"
 DESCRIPTION = """
-Engineering undergrad adept in Python, fueled by a passion for technology and poised to revolutionize the field with innovative coding-driven solutions.
+An engineering undergrad with a passion for coding and technology, adept at solving intricate problems while envisioning innovative solutions across diverse domains.
 """
 EMAIL = "jishnusahawork@email.com"
 SOCIAL_MEDIA = {
@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Instagram": "https://www.instagram.com/jishnu_2069/",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320"}
+    "📚🤖 **Study Mate** - a web app that simplifies learning by allowing students to query PDF content and generates personalized multiple-choice questions, enhancing study efficiency": "https://github.com/jishnu7777/Study-Mate.git"}
 
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
