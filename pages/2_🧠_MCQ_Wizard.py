@@ -55,7 +55,7 @@ Once you've input the details, voilà! Dive deep into questions crafted just for
 
 with st.expander("🎥 Video Tutorial"):
     with st.spinner("Loading video.."):
-        st.video("https://youtu.be/yzBr3L2BIto", format="video/mp4", start_time=0)
+        st.video("https://youtu.be/rECQAVvPV_g", format="video/mp4", start_time=0)
 
 temp3 = st.empty()
 
