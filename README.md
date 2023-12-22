@@ -47,7 +47,7 @@ Install the required dependencies
 Start the server
 
 ```bash
-  python run main.py
+  python main.py
 ```
 
 

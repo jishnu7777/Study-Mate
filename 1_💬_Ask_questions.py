@@ -18,7 +18,7 @@ def display_chat():
 
 
 def main():
-    st.set_page_config(page_title="DocuMate📚🤖 ",page_icon=":books:", layout="centered")
+    st.set_page_config(page_title="Study Mate",page_icon=":books:", layout="centered")
 
     st.write(css, unsafe_allow_html=True)
 
@@ -40,9 +40,9 @@ def main():
     if "GOOGLE_API_TOKEN" not in st.session_state:
         st.session_state.GOOGLE_API_TOKEN = None
 
-    st.title("Chat with DocuMate📚🤖....")
+    st.title("Ask questions 💬")
 
-    user_question = st.text_input("Ask a question about your documents:")
+    user_question = st.text_input("Ask any questions about your uploaded documents:")
 
     with st.sidebar:
         with st.form("user_input"):

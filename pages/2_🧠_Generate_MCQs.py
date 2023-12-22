@@ -5,11 +5,7 @@ from helpers.quiz_utils import string_to_list, get_randomized_options
 from helpers.toast_messages import get_random_toast
 
 
-st.set_page_config(
-    page_title="MCQ Wizard",
-    page_icon="🧠",
-    layout="centered",
-)
+st.set_page_config(page_title="Study Mate", page_icon=":books:", layout="centered")
 
 # Check if user is new or returning using session state.
 # If user is new, show the toast message.
@@ -34,7 +30,7 @@ if "key_verifier" not in st.session_state:
     st.session_state.key_verifier = True
 
 
-st.title(":red[MCQ Wizard] 🧠", anchor=False)
+st.title(":red[Generate MCQs] 🧠", anchor=False)
 st.write(
     """
 Ever read a pdf document and wondered how well you understood its content? Here's a fun twist: Instead of just reading PDFs, come to **MCQ Wizard** and test your comprehension!
