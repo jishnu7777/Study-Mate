@@ -7,7 +7,7 @@ Study Mate is a web app that simplifies learning by allowing students to query P
 
 The video below demonstrates the application's usage.
 
-[![youtube](https://img.youtube.com/vi/rECQAVvPV_g/0.jpg)](https://youtu.be/rECQAVvPV_g)
+[![youtube](https://img.youtube.com/vi/8BExf2rU5Dg/0.jpg)](https://youtu.be/8BExf2rU5Dg)
 
 
 ## Prerequisites
