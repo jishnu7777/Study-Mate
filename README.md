@@ -3,6 +3,8 @@
 
 Study Mate is a web app that simplifies learning by allowing students to query PDF content and generates personalized multiple-choice questions, enhancing study efficiency.
 
+Try out now! - [Study Mate](https://study-mate-9eo6.onrender.com)
+
 ## 🎥 Video Tutorial
 
 The video below demonstrates the application's usage.
