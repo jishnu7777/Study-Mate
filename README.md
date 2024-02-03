@@ -31,7 +31,7 @@ Simply log in with your Google account, navigate to "Get API key," proceed to "C
 Clone the project
 
 ```bash
-  gh repo clone jishnu7777/Study-Mate
+  git clone https://github.com/jishnu7777/Study-Mate.git
 ```
 
 Go to the project directory
